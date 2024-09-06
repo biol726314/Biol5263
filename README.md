@@ -1,6 +1,10 @@
 # Biol5263
 
-This is the home for all of my work for my FAVORITE class!
+These are my scripts for Chapter 1
+* [8.29.class.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/8.29.class.sbatch)
+* [helloworld.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/helloworld.sh)
 
-* [8.29.class.sbatch](8.29.class.sbatch)
-* [helloworld.sh](https://github.com/biol726314/Biol5263/blob/main/helloworld.sh)
+
+Scripts for Chapter 2
+* [ecoli_fastqc_Chap2.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/ecoli_fastqc_Chap2.sbatch)
+* [ecoli_fastqc_Chap2.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/ecoli_fastqc_Chap2.sh)
