@@ -28,3 +28,7 @@ BWA
 BWA_mem
 * [ch2_ecoli_bwa_mem.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/BWA/ch2_ecoli_bwa_mem.sbatch)
 * [ch2_ecoli_bwa_mem.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/BWA/ch2_ecoli_bwa_mem.sh)
+
+samtools_view
+* [ch2_ecoli_samtools_view.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/BWA/ch2_ecoli_samtools_view.sbatch)
+* [ch2_ecoli_samtools_view.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/BWA/ch2_ecoli_samtools_view.sh)
