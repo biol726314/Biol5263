@@ -12,3 +12,7 @@ Second Try
 Third Try
 * [ecoli_fastqc_try3.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/ecoli_fastqc_try3.sbatch)
 * [ecoli_fastqc_try3.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/ecoli_fastqc_try3.sh)
+
+Fourth Try
+* [ecoli_ch2_try4.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/ecoli_ch2_try4.sbatch)
+* [ecoli_ch2_try4.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/ecoli_ch2_try4.sh)
