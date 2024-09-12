@@ -8,4 +8,4 @@
 #SBATCH --job-name=ecoli_fastqc
 #
 
-bash /home/biol726314/BIOL7263_Genomics/scripts/fastqc/ecoli_fastqc_try4.sh
+bash /home/biol726314/BIOL7263_Genomics/scripts/fastqc/ecoli_ch2_try4.sh
