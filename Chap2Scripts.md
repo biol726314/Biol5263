@@ -37,3 +37,7 @@ ecoli_map
 * [ch2_ecoli_map_sort.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/BWA/ch2_ecoli_map_sort.sbatch)
 * [ch2_ecoli_map_sort.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/BWA/ch2_ecoli_map_sort.sh)
 
+markdown
+* [ch2_ecoli_markdown.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/BWA/ch2_ecoli_markdown.sbatch)
+* [ch2_ecoli_markdown.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/BWA/ch2_ecoli_markdup.sh)
+
