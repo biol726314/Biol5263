@@ -41,3 +41,7 @@ markdown
 * [ch2_ecoli_markdown.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/BWA/ch2_ecoli_markdown.sbatch)
 * [ch2_ecoli_markdown.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/BWA/ch2_ecoli_markdup.sh)
 
+index
+* [ch2_ecoli_index.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/BWA/ch2_ecoli_index.sbatch)
+* [ch2_ecoli_index.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/BWA/ch2_ecoli_index.sh)
+
