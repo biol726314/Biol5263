@@ -24,6 +24,7 @@ Trims
 BWA
 * [ch2_ecoli_BWA.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/ch2_ecoli_BWA.sh)
 * [ch2_ecoli_BWA.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/ch_ecoli_BWA.sbatch)
+
 BWA_mem
 * [ch2_ecoli_bwa_mem.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/BWA/ch2_ecoli_bwa_mem.sbatch)
 * [ch2_ecoli_bwa_mem.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/BWA/ch2_ecoli_bwa_mem.sh)
