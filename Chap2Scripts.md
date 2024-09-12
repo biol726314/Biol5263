@@ -16,3 +16,7 @@ Third Try
 Fourth Try
 * [ecoli_ch2_try4.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/ecoli_ch2_try4.sbatch)
 * [ecoli_ch2_try4.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/ecoli_ch2_try4.sh)
+
+Trims
+* [ch2_ecoli_trim.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/ch2_ecoli_trim.sbatch)
+* [ch2_ecoli_trim.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/ch2_ecoli_trim.sh)
