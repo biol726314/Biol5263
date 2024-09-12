@@ -8,4 +8,4 @@
 #SBATCH --job-name=ecoli_trim
 # 
 
-bash /home/biol726314/BIOL7263_Genomics/scripts/trim_galore/ecoli_trim.sh
+bash /home/biol726314/BIOL7263_Genomics/scripts/trim_galore/ch2_ecoli_trim.sh
