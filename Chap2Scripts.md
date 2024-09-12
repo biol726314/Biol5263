@@ -45,3 +45,7 @@ index
 * [ch2_ecoli_index.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/BWA/ch2_ecoli_index.sbatch)
 * [ch2_ecoli_index.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/BWA/ch2_ecoli_index.sh)
 
+QualiMap
+* [ch2_ecoli_QualiMap.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/QualiMap/ch_ecoli_QualiMap.sbatch)
+* [ch2_ecoli_QualiMap.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/QualiMap/ch2_ecoli_QualiMap.sh)
+
