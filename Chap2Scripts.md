@@ -20,3 +20,7 @@ Fourth Try
 Trims
 * [ch2_ecoli_trim.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/ch2_ecoli_trim.sbatch)
 * [ch2_ecoli_trim.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/ch2_ecoli_trim.sh)
+
+BWA
+* [ch2_ecoli_BWA.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/ch2_ecoli_BWA.sh)
+* [ch2_ecoli_BWA.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/ch_ecoli_BWA.sbatch)
