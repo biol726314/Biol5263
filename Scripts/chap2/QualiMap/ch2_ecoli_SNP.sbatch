@@ -9,4 +9,4 @@
 #SBATCH --job-name=ecoli_bwa
 # 
 
-bash 
+bash /home/biol726314/BIOL7263_Genomics/scripts/QualiMap/ch2_ecoli_SNP.sh
