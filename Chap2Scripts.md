@@ -49,9 +49,9 @@ QualiMap
 * [ch2_ecoli_QualiMap.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/QualiMap/ch_ecoli_QualiMap.sbatch)
 * [ch2_ecoli_QualiMap.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/QualiMap/ch2_ecoli_QualiMap.sh)
 
-SNP
-* [ch2_ecoli_SNP.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/QualiMap/ch2_ecoli_SNP.sbatch)
-* [ch2_ecoli_SNP.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/QualiMap/ch2_ecoli_SNP.sh)
+vcf
+* [ch2_ecoli_vcf.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/QualiMap/ch2_ecoli_vcf.sbatch)
+* [ch2_ecoli_vcf.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/QualiMap/ch2_ecoli_vcf.sh)
 
 Call
 * [ch2_ecoli_call.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/QualiMap/ch2_ecoli_call.sbatch)
