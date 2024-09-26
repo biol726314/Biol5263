@@ -24,3 +24,7 @@ blast
 * [ch3_blast.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/Ch3scripts/ch3_blast.sbatch)
 * [ch3_blast.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/Ch3scripts/ch3_blast.sbatch)
 
+pfam
+* [ch3_pfam.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/Ch3scripts/ch3_pfam.sbatch)
+* [ch3_pfam.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/Ch3scripts/ch3_pfam.sh)
+
