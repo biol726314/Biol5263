@@ -15,3 +15,7 @@ pseud quast comp
 jellyfish
 * [jellyfish.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/GenomeEvalScripts/jellyfish.sh)
 * [jellyfish.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/GenomeEvalScripts/jellyfish.sbatch)
+
+busco
+* [busco.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/GenomeEvalScripts/busco.sh)
+* [busco.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/GenomeEvalScripts/busco.sbatch)
