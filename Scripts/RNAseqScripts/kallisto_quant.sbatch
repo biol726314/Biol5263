@@ -10,4 +10,4 @@
 #SBATCH --array=1-6
 #
 
-bash /home/biol726314/BIOL7263_Genomics/Ch4Scripts/kallisto_quant.sh $(sed -n "${SLURM_ARRAY_TASK_ID}p" /home/biol726314/BIOL7263_Genomics/Ch4Scripts/kallisto_quant.args
+bash /home/biol726314/BIOL7263_Genomics/RNAseqScripts/kallisto_quant.sh $(sed -n "${SLURM_ARRAY_TASK_ID}p" /home/biol726314/BIOL7263_Genomics/RNAseqScripts/kallisto_quant.args)
