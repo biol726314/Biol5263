@@ -11,3 +11,7 @@ pseud quast short long
 pseud quast comp
 * [psed_quast_comp.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/GenomeEvalScripts/pseud_quast_comp.sh)
 * [psed_quast_comp.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/GenomeEvalScripts/psed_quast_comp.sbatch)
+
+jellyfish
+* [jellyfish.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/GenomeEvalScripts/jellyfish.sh)
+* [jellyfish.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/GenomeEvalScripts/jellyfish.sbatch)
