@@ -1,6 +1,7 @@
 # Biol5263
 
-Genome Eval Sctips
+Genome Eval Scrips
+* [GenAsEval.md](https://github.com/biol726314/Biol5263/blob/main/GenAsEval.md)
 
 RNAseq Scripts
 * [RNAseq.md](https://github.com/biol726314/Biol5263/blob/main/RNAseq.md)
