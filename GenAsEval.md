@@ -8,6 +8,6 @@ pseud quast short long
 * [pseud_quast_short_long.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/GenomeEvalScripts/pseud_quast_short_long.sh)
 * [pseud_quast_short_long.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/GenomeEvalScripts/pseud_quast_short_long.sbatch)
 
-pseud quast illumina
-* []()
-* []()
+pseud quast comp
+* [psed_quast_comp.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/GenomeEvalScripts/pseud_quast_comp.sh)
+* [psed_quast_comp.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/GenomeEvalScripts/psed_quast_comp.sbatch)
