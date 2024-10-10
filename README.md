@@ -1,5 +1,10 @@
 # Biol5263
 
+Genome Eval Sctips
+
+RNAseq Scripts
+*[RNAseq.md](https://github.com/biol726314/Biol5263/blob/main/RNAseq.md)
+
 Chapter 1 Scripts
 * [Chapter1Scripts.md](https://github.com/biol726314/Biol5263/blob/main/Chapter1Scripts.md)
 
