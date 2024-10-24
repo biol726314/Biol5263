@@ -9,3 +9,8 @@ Full Spades
 De Novo
 * [ch4_denovo.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/Chap4Scripts/ch4_denovo.sbatch)
 * [ch4_denovo.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/Chap4Scripts/ch4_denovo.sbatch)
+
+quality map
+* [ch4_qmap_de_novo.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/Chap4Scripts/ch4_qmap_de_novo.sbatch)
+* [ch4_qmap_de_novo.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/Chap4Scripts/ch4_qmap_de_novo.sh)
+
