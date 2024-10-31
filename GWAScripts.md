@@ -12,5 +12,7 @@ filter HZ
 * [filter_HZ.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/GWAScripts/filter_HZ.sh)
 * [filter_HZ.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/GWAScripts/filter_HZ.sbatch)
 
-
+plink
+* [plink.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/GWAScripts/plink.sbatch)
+* [plink.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/GWAScripts/plink.sh)
 
