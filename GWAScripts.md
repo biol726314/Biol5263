@@ -16,3 +16,11 @@ plink
 * [plink.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/GWAScripts/plink.sbatch)
 * [plink.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/GWAScripts/plink.sh)
 
+relate
+* [relate.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/GWAScripts/relate.sbatch)
+* [relate.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/GWAScripts/relate.sh)
+
+gemma lm
+* [gemma_lm.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/GWAScripts/gemma_lm.sbatch)
+* [gemma_lm.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/GWAScripts/gemma_lm.sh)
+
