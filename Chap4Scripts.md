@@ -14,3 +14,11 @@ quality map
 * [ch4_qmap_de_novo.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/Chap4Scripts/ch4_qmap_de_novo.sbatch)
 * [ch4_qmap_de_novo.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/Chap4Scripts/ch4_qmap_de_novo.sh)
 
+ORF ipy
+* [orfipy.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/Chap4Scripts/orfipy.sbtach)
+* [orfipy.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/Chap4Scripts/orfipy.sh)
+
+De Novo
+* [orf_blast.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/Chap4Scripts/orf_blast.sbatch)
+* [orf_blast.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/Chap4Scripts/orf_blast.sh)
+
