@@ -8,4 +8,7 @@ pseudomonas short assembly
 * [pseud_short_assemb.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/Chap5Scripts/pseud_short_assemb.sbatch)
 * [pseud_short_assemb.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/Chap5Scripts/pseud_short_assemb.sh)
 
+pseudomonas long assembly
+* [pseud_long_assembly.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/Chap5Scripts/pseud_long_assembly.sbatch)
+* [pseud_long_assembly.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/Chap5Scripts/pseud_long_assembly.sh)
 
