@@ -26,3 +26,6 @@ Chapter 5 Scripts
 
 PDF of Research Proposal
 * [Research Proposal](https://github.com/biol726314/Biol5263/blob/main/Research%20Proposal%20-%20BIOL%207263.pdf)
+
+pptx of Research Powerpoint
+* [Research Powerpoint)(https://github.com/biol726314/Biol5263/blob/main/Virulence%20Factors%20of%20Mammiliicoccus.pptx)
