@@ -1,29 +1,28 @@
 Chapter 2 Scripts
 
 First Try
-* [ecoli_fastqc_Chap2.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/ecoli_fastqc_Chap2.sbatch)
-* [ecoli_fastqc_Chap2.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/ecoli_fastqc_Chap2.sh)
+* [ecoli_fastqc_Chap2.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/fastqc/ecoli_fastqc_Chap2.sbatch)
+* [ecoli_fastqc_Chap2.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/fastqc/ecoli_fastqc_Chap2.sh)
 
 Second Try
-* [ecoli_fastqc_try2.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/ecoli_fastqc_Chap2.sbatch)
-* [ecoli_fastqc_Chap2.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/ecoli_fastqc_Chap2.sh)
-* [ecoli_fastqc_try2.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/ecoli_fastqc_try2.sh)
+* [ecoli_fastqc_try2.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/fastqc/ecoli_fastqc__try2.sbatch)
+* [ecoli_fastqc_try2.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/fastqc/ecoli_fastqc_try2.sh)
 
 Third Try
-* [ecoli_fastqc_try3.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/ecoli_fastqc_try3.sbatch)
-* [ecoli_fastqc_try3.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/ecoli_fastqc_try3.sh)
+* [ecoli_fastqc_try3.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/fastqc/ecoli_fastqc_try3.sbatch)
+* [ecoli_fastqc_try3.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/fastqc/ecoli_fastqc_try3.sh)
 
 Fourth Try
-* [ecoli_ch2_try4.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/ecoli_ch2_try4.sbatch)
-* [ecoli_ch2_try4.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/ecoli_ch2_try4.sh)
+* [ecoli_ch2_try4.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/fastqc/ecoli_ch2_try4.sbatch)
+* [ecoli_ch2_try4.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/fastqc/ecoli_ch2_try4.sh)
 
 Trims
-* [ch2_ecoli_trim.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/ch2_ecoli_trim.sbatch)
-* [ch2_ecoli_trim.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/ch2_ecoli_trim.sh)
+* [ch2_ecoli_trim.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/trim_galore/ch2_ecoli_trim.sbatch)
+* [ch2_ecoli_trim.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/trim_galore/ch2_ecoli_trim.sh)
 
 BWA
-* [ch2_ecoli_BWA.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/ch2_ecoli_BWA.sh)
-* [ch2_ecoli_BWA.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/ch_ecoli_BWA.sbatch)
+* [ch2_ecoli_BWA.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/BWA/ch_ecoli_BWA.sbatch)
+* [ch2_ecoli_BWA.sh](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/BWA/ch2_ecoli_BWA.sh)
 
 BWA_mem
 * [ch2_ecoli_bwa_mem.sbatch](https://github.com/biol726314/Biol5263/blob/main/Scripts/chap2/BWA/ch2_ecoli_bwa_mem.sbatch)
