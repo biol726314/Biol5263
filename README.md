@@ -1,4 +1,4 @@
-# Biol5263
+# My Biol5263 Scripts
 
 Genome Eval Scrips
 * [GenAsEval.md](https://github.com/biol726314/Biol5263/blob/main/GenAsEval.md)
